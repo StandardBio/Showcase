@@ -1,0 +1,14 @@
+2025-04-02 11:24:45,645 - app - WARNING - Number of levels 1 < 2
+2025-04-02 11:24:55,894 - app - ERROR - Exception on /api/render/cb9e21b22239470eb254d959479db0b3 [POST]
+Traceback (most recent call last):
+  File "flask\app.py", line 2525, in wsgi_app
+  File "flask\app.py", line 1822, in full_dispatch_request
+  File "flask_cors\extension.py", line 165, in wrapped_function
+  File "flask\app.py", line 1820, in full_dispatch_request
+  File "flask\app.py", line 1796, in dispatch_request
+  File "flask_cors\decorator.py", line 128, in wrapped_function
+  File "app.py", line 759, in no_cache
+  File "app.py", line 1668, in api_render
+  File "thumbnail.py", line 100, in merge_tiles_and_save_image
+  File "thumbnail.py", line 14, in linear_blend
+IndexError: list index out of range
