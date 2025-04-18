@@ -1,1 +1,289 @@
-{"Images": [{"Name": "i0", "Description": "Mouse Embryo Stage E18", "Path": "images/MouseEmbryo", "Width": 2247, "Height": 1643, "MaxLevel": 0}], "Header": "At embryonic day 18.5 (E18.5), a mouse embryo is in a late fetal stage, with organs and tissues largely formed, and the embryo is nearing the point of birth, with the heart, brain, and other structures well-developed. Imaging Mass Cytometry was applied on a formalin fixed paraffin embeeded tissue section using the Mouse Immuno-Oncology IMC Panel Kit in combination with Tissue Mode (TM) imaging. TM offers a streamlined workflow for visualization of up to 40 markers on whole tissue section. ", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "", "Waypoints": [{"Name": "Neurophenotyping", "Description": "Expression of neurophenotyping markers detects distribution of neurological markers across the mouse embryo stage E18. Developing brain exhibits expression of MAP2 in neurons along with localized distribution of GFAP+ astrocytes and Olig2+ oligodendrocytes. Developing liver contains high abundance of Iba1 expressing macrophages. S100b, a calcium-binding protein, is upregulated in bone marrow of developing ribs and spinal column as well as in epithelia of colon. CD34 marks presence of vasculature and stromal cells in the tissue microenvironment.", "Arrows": [], "Overlays": [], "Group": "Neuro", "Masks": [], "ActiveMasks": [], "Zoom": 0.42703125000000003, "Pan": [0.3306017712263549, 0.5029865223117517]}, {"Name": "Tissue architecture", "Description": "Tissue Mode imaging enables detection of tissue-specific compartments in the mouse embryo by employing the Mouse Neuro-Oncology Panel. The tissue scan was performed in hours. Expression of neuronal-specific markers was observed in the developing brain as well as along the spinal column. Several stromal compartments were identified with combinatorial expression of several stromal markers. The epidermis and hypodermis are visualized and differentiated by the expression of specific epithelial and stromal markers. Organ-specific tissue compartments were also highlighted. In the lungs, specific bronchiolar and alveolar tissue compartments can be observed. In the heart, the expression of vasculature-specific markers and cell replication markers is detected. In the liver, high expression of cell replication markers and the presence of Kupffer cells is observed. In the colon, epithelial tissue and surrounding smooth muscle are highlighted. ", "Arrows": [], "Overlays": [], "Group": "Tissue architecture 2", "Masks": [], "ActiveMasks": [], "Zoom": 0.44699577033067517, "Pan": [0.40154573503482777, 0.5325874891699982]}]}], "Channels": [{"Rendered": false, "Name": "CD44", "Path": "CD44_22__CD44"}, {"Rendered": false, "Name": "pTyrosine", "Path": "pTyrosine_13__pTyrosine"}, {"Rendered": false, "Name": "Ki67", "Path": "Ki67_19__Ki67"}, {"Rendered": false, "Name": "b-Catenin", "Path": "b-Catenin_37__b-Catenin"}, {"Rendered": false, "Name": "CD31", "Path": "CD31_39__CD31"}, {"Rendered": false, "Name": "Iba1", "Path": "Iba1_11__Iba1"}, {"Rendered": false, "Name": "GFAP", "Path": "GFAP_12__GFAP"}, {"Rendered": false, "Name": "S100b", "Path": "S100b_15__S100b"}, {"Rendered": false, "Name": "MAP2", "Path": "MAP2_17__MAP2"}, {"Rendered": false, "Name": "CD34", "Path": "CD34_35__CD34"}, {"Rendered": false, "Name": "Olig2", "Path": "Olig2_36__Olig2"}, {"Rendered": false, "Name": "NeuN", "Path": "NeuN_14__NeuN"}, {"Rendered": false, "Name": "Fibronectin", "Path": "Fibronectin_21__Fibronectin"}, {"Rendered": false, "Name": "E-Cadherin", "Path": "E-Cadherin_26__E-Cadherin"}, {"Rendered": false, "Name": "aSMA", "Path": "aSMA_10__aSMA"}, {"Rendered": false, "Name": "Collagen I", "Path": "Collagen-I_41__Collagen-I"}, {"Rendered": false, "Name": "EpCAM", "Path": "EpCAM_16__EpCAM"}, {"Rendered": false, "Name": "CD45", "Path": "CD45_20__CD45"}, {"Rendered": false, "Name": "pERK1-2", "Path": "pERK1-2_32__pERK1-2"}, {"Rendered": false, "Name": "pS6", "Path": "pS6_43__pS6"}, {"Rendered": false, "Name": "b-Actin", "Path": "b-Actin_23__b-Actin"}], "Masks": [{"Path": "Pixel-clustering-analysis", "Name": "Pixel clustering analysis", "Colors": ["ffffff"], "Channels": ["Pixel clustering analysis"]}], "Groups": [{"Name": "Tissue architecture 1", "Colors": ["0001ff", "ff0000", "ff00ff", "00ff00", "ffff00"], "Channels": ["CD44", "pTyrosine", "Ki67", "b-Catenin", "CD31"], "Descriptions": ["", "", "", "", ""]}, {"Name": "Neuro", "Colors": ["00ff00", "ff0000", "00ffff", "0000ff", "ffff00", "ff00ff"], "Channels": ["Iba1", "GFAP", "S100b", "MAP2", "CD34", "Olig2"], "Descriptions": ["", "", "", "", "", ""]}, {"Name": "Tissue architecture 2", "Colors": ["00ff00", "ff00ff", "00ffff", "ff0000", "ffff00", "0000ff"], "Channels": ["NeuN", "S100b", "Fibronectin", "E-Cadherin", "aSMA", "Collagen I"], "Descriptions": ["", "", "", "", "", ""]}, {"Name": "Tissue architecture 3", "Colors": ["00ff00", "ff00ff", "ff0000", "00ffff", "0000ff"], "Channels": ["EpCAM", "CD45", "pERK1-2", "pS6", "b-Actin"], "Descriptions": ["", "", "", "", ""]}], "PixelsPerMicron": 0.14285714285714285, "FirstGroup": "Neuro", "FirstViewport": {"Zoom": 0.46344521467884386, "Pan": [0.5, 0.4878302808197277]}}
+{
+    "Images": [
+        {
+            "Name": "i0",
+            "Description": "Mouse Embryo Stage E18",
+            "Path": "images/MouseEmbryo",
+            "Width": 3840,
+            "Height": 2808,
+            "MaxLevel": 0
+        }
+    ],
+    "Header": "At embryonic day 18.5 (E18.5), a mouse embryo is in a late fetal stage, with organs and tissues largely formed, and the embryo is nearing the point of birth, with the heart, brain, and other structures well-developed. Imaging Mass Cytometry was applied on a formalin fixed paraffin embeeded tissue section using the Mouse Immuno-Oncology IMC Panel Kit in combination with Tissue Mode (TM) imaging. TM offers a streamlined workflow for visualization of up to 40 markers on whole tissue section. ",
+    "Rotation": 0,
+    "Layout": {
+        "Grid": [
+            [
+                "i0"
+            ]
+        ]
+    },
+    "Stories": [
+        {
+            "Name": "",
+            "Description": "",
+            "Waypoints": [
+                {
+                    "Name": "Neurophenotyping",
+                    "Description": "Expression of neurophenotyping markers detects distribution of neurological markers across the mouse embryo stage E18. Developing brain exhibits expression of MAP2 in neurons along with localized distribution of GFAP+ astrocytes and Olig2+ oligodendrocytes. Developing liver contains high abundance of Iba1 expressing macrophages. S100b, a calcium-binding protein, is upregulated in bone marrow of developing ribs and spinal column as well as in epithelia of colon. CD34 marks presence of vasculature and stromal cells in the tissue microenvironment.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Neuro",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.42703125000000003,
+                    "Pan": [
+                        0.3306017712263549,
+                        0.5029865223117517
+                    ]
+                },
+                {
+                    "Name": "Tissue architecture",
+                    "Description": "Tissue Mode imaging enables detection of tissue-specific compartments in the mouse embryo by employing the Mouse Neuro-Oncology Panel. The tissue scan was performed in hours. Expression of neuronal-specific markers was observed in the developing brain as well as along the spinal column. Several stromal compartments were identified with combinatorial expression of several stromal markers. The epidermis and hypodermis are visualized and differentiated by the expression of specific epithelial and stromal markers. Organ-specific tissue compartments were also highlighted. In the lungs, specific bronchiolar and alveolar tissue compartments can be observed. In the heart, the expression of vasculature-specific markers and cell replication markers is detected. In the liver, high expression of cell replication markers and the presence of Kupffer cells is observed. In the colon, epithelial tissue and surrounding smooth muscle are highlighted. ",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Tissue architecture 2",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.44699577033067517,
+                    "Pan": [
+                        0.40154573503482777,
+                        0.5325874891699982
+                    ]
+                }
+            ]
+        }
+    ],
+    "Channels": [
+        {
+            "Rendered": false,
+            "Name": "CD44",
+            "Path": "CD44_22__CD44"
+        },
+        {
+            "Rendered": false,
+            "Name": "pTyrosine",
+            "Path": "pTyrosine_13__pTyrosine"
+        },
+        {
+            "Rendered": false,
+            "Name": "Ki67",
+            "Path": "Ki67_19__Ki67"
+        },
+        {
+            "Rendered": false,
+            "Name": "b-Catenin",
+            "Path": "b-Catenin_37__b-Catenin"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD31",
+            "Path": "CD31_39__CD31"
+        },
+        {
+            "Rendered": false,
+            "Name": "Iba1",
+            "Path": "Iba1_11__Iba1"
+        },
+        {
+            "Rendered": false,
+            "Name": "GFAP",
+            "Path": "GFAP_12__GFAP"
+        },
+        {
+            "Rendered": false,
+            "Name": "S100b",
+            "Path": "S100b_15__S100b"
+        },
+        {
+            "Rendered": false,
+            "Name": "MAP2",
+            "Path": "MAP2_17__MAP2"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD34",
+            "Path": "CD34_35__CD34"
+        },
+        {
+            "Rendered": false,
+            "Name": "Olig2",
+            "Path": "Olig2_36__Olig2"
+        },
+        {
+            "Rendered": false,
+            "Name": "NeuN",
+            "Path": "NeuN_14__NeuN"
+        },
+        {
+            "Rendered": false,
+            "Name": "Fibronectin",
+            "Path": "Fibronectin_21__Fibronectin"
+        },
+        {
+            "Rendered": false,
+            "Name": "E-Cadherin",
+            "Path": "E-Cadherin_26__E-Cadherin"
+        },
+        {
+            "Rendered": false,
+            "Name": "aSMA",
+            "Path": "aSMA_10__aSMA"
+        },
+        {
+            "Rendered": false,
+            "Name": "Collagen I",
+            "Path": "Collagen-I_41__Collagen-I"
+        },
+        {
+            "Rendered": false,
+            "Name": "EpCAM",
+            "Path": "EpCAM_16__EpCAM"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD45",
+            "Path": "CD45_20__CD45"
+        },
+        {
+            "Rendered": false,
+            "Name": "pERK1-2",
+            "Path": "pERK1-2_32__pERK1-2"
+        },
+        {
+            "Rendered": false,
+            "Name": "pS6",
+            "Path": "pS6_43__pS6"
+        },
+        {
+            "Rendered": false,
+            "Name": "b-Actin",
+            "Path": "b-Actin_23__b-Actin"
+        }
+    ],
+    "Masks": [
+        {
+            "Path": "Pixel-clustering-analysis",
+            "Name": "Pixel clustering analysis",
+            "Colors": [
+                "ffffff"
+            ],
+            "Channels": [
+                "Pixel clustering analysis"
+            ]
+        }
+    ],
+    "Groups": [
+        {
+            "Name": "Tissue architecture 1",
+            "Colors": [
+                "0001ff",
+                "ff0000",
+                "ff00ff",
+                "00ff00",
+                "ffff00"
+            ],
+            "Channels": [
+                "CD44",
+                "pTyrosine",
+                "Ki67",
+                "b-Catenin",
+                "CD31"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Neuro",
+            "Colors": [
+                "00ff00",
+                "ff0000",
+                "00ffff",
+                "0000ff",
+                "ffff00",
+                "ff00ff"
+            ],
+            "Channels": [
+                "Iba1",
+                "GFAP",
+                "S100b",
+                "MAP2",
+                "CD34",
+                "Olig2"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Tissue architecture 2",
+            "Colors": [
+                "00ff00",
+                "ff00ff",
+                "00ffff",
+                "ff0000",
+                "ffff00",
+                "0000ff"
+            ],
+            "Channels": [
+                "NeuN",
+                "S100b",
+                "Fibronectin",
+                "E-Cadherin",
+                "aSMA",
+                "Collagen I"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Tissue architecture 3",
+            "Colors": [
+                "00ff00",
+                "ff00ff",
+                "ff0000",
+                "00ffff",
+                "0000ff"
+            ],
+            "Channels": [
+                "EpCAM",
+                "CD45",
+                "pERK1-2",
+                "pS6",
+                "b-Actin"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "PixelsPerMicron": 0.08359375,
+    "FirstGroup": "Neuro",
+    "FirstViewport": {
+        "Zoom": 0.46344521467884386,
+        "Pan": [
+            0.5,
+            0.4878302808197277
+        ]
+    }
+}

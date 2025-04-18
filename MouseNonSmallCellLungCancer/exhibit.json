@@ -1,1 +1,292 @@
-{"Images": [{"Name": "i0", "Description": "Mouse Non Small Cell Lung Cancer", "Path": "images/MinervaTry2", "Width": 1000, "Height": 1000, "MaxLevel": 0}], "Header": "Mouse tumor models have greatly enhanced our understanding of tumorigenesis and are widely\nutilized as the preferred model organism for cancer studies and preclinical drug testing. The ability\nto evaluate the multiparametric response in the tumor microenvironment (TME) is crucial to predict\ntherapeutic drug efficacy. Particularly, assessment of immunological and oncological processes that dictate\ntumor growth, metastasis, and immune response are essential for identifying candidates for further\nclinical evaluation. Imaging Mass Cytometry\u2122 (IMC\u2122) permits analysis of 40-plus distinct tissue and cellular markers simultaneously on tumor samples, providing a thorough evaluation of the spatial landscape of the\nTME.\n\nSee how we and present quantitative evaluation of the cellular and structural landscape of mouse non-small cell\nlung cancer (NSCLC) TME.\n\n\n", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "", "Waypoints": [{"Name": "Mouse Tissue Architecture Panel", "Description": "Through systematic selection of mouse antibodies from our catalogue, we have created panel kits that permit qualitative and quantitative evaluation of critical tumor pathophysiological parameters. Here we show the  application of an IMC panel consisting of 4 modular subpanels and defines their performance on multiple mouse tumor models.\n\nThis first module, our Maxpar OnDemand Mouse Tissue Architecture IMC Panel Kit (Cat. No. 9100001) identifies the underlying cellular and structural markers of the tumor.", "Arrows": [], "Overlays": [], "Group": "Mouse Tissue Architecture Panel", "Masks": [], "ActiveMasks": [], "Zoom": 0.49992187500000007, "Pan": [0.5, 0.5188031304958896]}, {"Name": "Mouse Immune Phenotyping Panel", "Description": "Our Maxpar OnDemand Mouse Immune Phenotyping IMC Panel Kit (Cat. No. 9100003) delineates lymphoid\nand myeloid cell subtypes of immune cell infiltrates in tumors.\n\nComposition of the immune cells in the tumor immune microenvironment (TIME) is of vital importance for predicting treatment response and overall clinical outcomes. Delineation of specific immune cell populations and their spatial organization in the TIME is required for discovering promising immunomodulatory cancer therapeutics. The Mouse Immune Phenotyping Panel offers 8 distinct markers that enable identification of lymphoid and myeloid immune cell infiltrates in tumors. Cytotoxic T cells (CD8) and helper T cells (CD4) can be detected amongst the total immune cell infiltrates in NSCLC. While B cells were not observed in NSCLC, MHC class II expression delineates antigen-presenting cells in NSCLC, and macrophages, myeloid-derived suppressor cells (MDSCs), and neutrophils can be detected by expression of F4/80, CD11b, and Ly-6G in NSCLC.", "Arrows": [], "Overlays": [], "Group": "Mouse Immune Phenotyping Panel", "Masks": [], "ActiveMasks": [], "Zoom": 0.45597656249999996, "Pan": [0.5000000000000019, 0.3915729355002917]}, {"Name": "Mouse Cancer Cell Process Panel", "Description": "Tumors exhibit heterogenous phenotypes due to clonal evolution of cancer cells during tumorigenesis. Each cancer stem cell-derived population has a unique molecular signature that fine-tunes cellular processes. The Mouse Cancer Cell Process Panel reveals signaling pathway activation, proliferation, metabolism, and epithelial to mesenchymal transition (EMT), thus highlighting the variety of cancerous cell processes in the mouse TME.\n\nRas signaling modulates growth rate and metastasis of tumors and initiates upon activation of receptor tyrosine kinases (RTKs), which phosphorylate tyrosine residues (pTyr) on signaling receptors. Subsequent activation of the phospho-relay pathway results in activation of extracellular signal-regulated kinases, ERK1 and ERK2 (pERK1/2). The Mouse Cancer Cell Process Panel offers pTyr and pERK1/2 markers for assessment of canonical and non-canonical Ras signaling. In NSCLC, elevated levels of pTyr and pERK1/2 in cells indicates activation of Ras signaling.\n\nTumors rely on a constant supply of nutrients for sustained growth, made possible by constitutive activation of glycolytic metabolism21. Phosphorylation of ribosomal protein S6 (pS6) is a step in the mammalian target of rapamycin (mTOR) signaling cascade that regulates metabolic activity in cells. Ki-67 is an exclusive nuclear marker for proliferating cells that is present at all active stages of the cell cycle. The Mouse Cancer Cell Process Panel offers both pS6 and Ki-67 markers for the assessment of metabolic activity and tumor growth. InNSCLC, cells with individual and concomitant expression of pS6 and Ki-67 can be detected, indicating metabolic and growth capacity of tissues.\n\nEMT is linked to promoting cancer morbidity by contributing to tumor initiation, invasion, and resistance to therapeutic interventions. During EMT, tumor cells disrupt cell-cell adhesions and activate pro-migratory cellular machinery. The Mouse Cancer Cell Process Panel includes 6 markers for assessing cellular processes associated with EMT. In normal lung tissue and NSCLC, high overlapping expression of cell-cell adhesion molecules, E-cadherin (E-cad), \u03b2-catenin (\u03b2-cat), and EpCAM highlight epithelial cells with suppressed EMT activation. Expression of cytoskeletal components vimentin (Vim) and \u03b2-actin (\u03b2-act) identifies cells with activated migratory capabilities in NSCLC tissue. Expression of the tumor suppressor marker BRCA1 indicates cells with low capacity for EMT in normal lung and NSCLC tissue.", "Arrows": [], "Overlays": [], "Group": "Mouse Cancer Cell Process Panel", "Masks": [], "ActiveMasks": [], "Zoom": 0.45597656249999996, "Pan": [0.5000000000000019, 0.3915729355002917]}, {"Name": "Mouse Immune Activation Panel", "Description": "Controlling the activation of immune cells in the TIME is at the forefront of cancer immunotherapy research. The presence of pro-inflammatory immune cells or cytotoxic T cells in the TIME is generally considered a positive indicator for clinical outcomes, whereas the presence of regulatory T cells (Treg) specifies an inhibitory TIME with poor clinical prognosis. The Mouse Immune Activation Panel contains 3 distinct markers that enable identification of relevant activated immune cells in tumors. In NSCLC, proliferation of immune cells can be assessed by expression of Ki-67 . \n\nThe expression of granzyme B (GzmB) assesses the cytotoxic activation of CD8 T cells.\n\nFoxP3 expression identifies Tregs in NSCLC.  Activated macrophages expressing granzyme B are identified in NSCLC and B cell lymphoma ", "Arrows": [], "Overlays": [], "Group": "Mouse Immune Activation Panel", "Masks": [], "ActiveMasks": [], "Zoom": 0.45597656249999996, "Pan": [0.5000000000000019, 0.3915729355002917]}, {"Name": "Cell Segmentation Kit", "Description": "Any high-plex imaging analysis starts with cell segmentation. You can now segment with confidence using the IMC Cell Segmentation Kit. \n\nOur proprietary IMC Cell Segmentation Kit includes three individual plasma membrane markers for improved nucleus and plasma membrane demarcation. \n\nNotice how by using this kit 100% of all cells are stained with our cell segmentation markers, allowing this to be used as a unique tool to get robust datasets.\n\nSee how the use of this segmentation kit allowed for robust single cell analysis by reading our detailed application note at: \nhttps://www.standardbio.com/mouseimcpanels", "Arrows": [], "Overlays": [], "Group": "Cell Segmentation Panel", "Masks": [], "ActiveMasks": [], "Zoom": 0.45597656249999996, "Pan": [0.5000000000000019, 0.3915729355002917]}, {"Name": "Replicating and regulatory T Cells", "Description": "Ki-67 highlights replicating immune cells in NSCLC. FoxP3 expression in CD4 T cells identifies exhausted T regulatory cells \nRegulatory T cells are identified by arrows", "Arrows": [{"Text": "", "HideArrow": false, "Point": [0.2541285841962045, 0.24550057777617396], "Angle": 60}, {"Text": "", "HideArrow": false, "Point": [0.36207487364002344, 0.30778723821236986], "Angle": 60}, {"Text": "", "HideArrow": false, "Point": [0.25756018161569383, 0.760113118448813], "Angle": 60}], "Overlays": [], "Group": "Replicating and Regulatory T Cells", "Masks": [], "ActiveMasks": [], "Zoom": 0.45597656249999996, "Pan": [0.5000000000000002, 0.60476162794431]}]}], "Masks": [], "Groups": [{"Name": "Replicating and Regulatory T Cells", "Path": "Replicating-and-Regulatory-T-Cells_39__DNA2--12__CD45--11__Ki67--22__CD8--25__FoxP3", "Colors": ["ffffff", "ff0000", "00ff00", "ff00ff", "ffffff"], "Channels": ["DNA2", "CD45", "Ki67", "CD8", "FoxP3"]}, {"Name": "Macrophages and neutrophils", "Path": "Macrophages-and-neutrophils_39__DNA2--17__F4-80--26__Ly6G--23__CD11b--16__GzmB", "Colors": ["ffffff", "7fff00", "ff0000", "0000ff", "ff00ff"], "Channels": ["DNA2", "F4-80", "Ly6G", "CD11b", "GzmB"]}, {"Name": "Mouse Immune Activation Panel", "Path": "Mouse-Immune-Activation-Panel_39__DNA2--12__CD45--11__Ki67--25__FoxP3--16__GzmB", "Colors": ["ffffff", "ff0000", "00ff00", "ffffff", "00ffff"], "Channels": ["DNA2", "CD45", "Ki67", "FoxP3", "GzmB"]}, {"Name": "Mouse Cancer Cell Process Panel", "Path": "Mouse-Cancer-Cell-Process-Panel_39__DNA2--8__pTyr--24__pERK1-2--29__B-Catenin--12__CD45--15__B-Actin--35__pS6", "Colors": ["ffffff", "00ff00", "00ffff", "0000ff", "00ff00", "ff0000", "ff00ff"], "Channels": ["DNA2", "pTyr", "pERK1-2", "B-Catenin", "CD45", "B-Actin", "pS6"]}, {"Name": "Cell Segmentation Panel", "Path": "Cell-Segmentation-Panel_40__ICSK1--41__ICSK2--42__ICSK3--39__DNA2", "Colors": ["ff00ff", "ff00ff", "ff00ff", "ffffff"], "Channels": ["ICSK1", "ICSK2", "ICSK3", "DNA2"]}, {"Name": "Mouse Tissue Architecture Panel", "Path": "Mouse-Tissue-Architecture-Panel_39__DNA2--7__aSMA--31__CD31--34__Pan-Cytokeratin--33__Collagen-I--13__Fibronectin", "Colors": ["ffffff", "0000ff", "ffff00", "ff0000", "00ff00", "ff00ff"], "Channels": ["DNA2", "aSMA", "CD31", "Pan-Cytokeratin", "Collagen-I", "Fibronectin"]}, {"Name": "Mouse Immune Phenotyping Panel", "Path": "Mouse-Immune-Phenotyping-Panel_39__DNA2--22__CD8--23__CD11b--17__F4-80--12__CD45", "Colors": ["ffffff", "ff00ff", "00ffff", "ff0000", "00ff00"], "Channels": ["DNA2", "CD8", "CD11b", "F4-80", "CD45"]}, {"Name": "Non Small Cell Lung Cancer Overview", "Path": "Non-Small-Cell-Lung-Cancer-Overview_14__CD44--10__Vimentin--12__CD45--23__CD11b--24__pERK1-2", "Colors": ["00ff00", "ff0000", "ff00ff", "ffffff", "00ffff"], "Channels": ["CD44", "Vimentin", "CD45", "CD11b", "pERK1-2"]}]}
+{
+    "Images": [
+        {
+            "Name": "i0",
+            "Description": "Mouse Non Small Cell Lung Cancer",
+            "Path": "images/MinervaTry2",
+            "Width": 3840,
+            "Height": 3840,
+            "MaxLevel": 0
+        }
+    ],
+    "Header": "Mouse tumor models have greatly enhanced our understanding of tumorigenesis and are widely\nutilized as the preferred model organism for cancer studies and preclinical drug testing. The ability\nto evaluate the multiparametric response in the tumor microenvironment (TME) is crucial to predict\ntherapeutic drug efficacy. Particularly, assessment of immunological and oncological processes that dictate\ntumor growth, metastasis, and immune response are essential for identifying candidates for further\nclinical evaluation. Imaging Mass Cytometry\u2122 (IMC\u2122) permits analysis of 40-plus distinct tissue and cellular markers simultaneously on tumor samples, providing a thorough evaluation of the spatial landscape of the\nTME.\n\nSee how we and present quantitative evaluation of the cellular and structural landscape of mouse non-small cell\nlung cancer (NSCLC) TME.\n\n\n",
+    "Rotation": 0,
+    "Layout": {
+        "Grid": [
+            [
+                "i0"
+            ]
+        ]
+    },
+    "Stories": [
+        {
+            "Name": "",
+            "Description": "",
+            "Waypoints": [
+                {
+                    "Name": "Mouse Tissue Architecture Panel",
+                    "Description": "Through systematic selection of mouse antibodies from our catalogue, we have created panel kits that permit qualitative and quantitative evaluation of critical tumor pathophysiological parameters. Here we show the  application of an IMC panel consisting of 4 modular subpanels and defines their performance on multiple mouse tumor models.\n\nThis first module, our Maxpar OnDemand Mouse Tissue Architecture IMC Panel Kit (Cat. No. 9100001) identifies the underlying cellular and structural markers of the tumor.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Mouse Tissue Architecture Panel",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.49992187500000007,
+                    "Pan": [
+                        0.5,
+                        0.5188031304958896
+                    ]
+                },
+                {
+                    "Name": "Mouse Immune Phenotyping Panel",
+                    "Description": "Our Maxpar OnDemand Mouse Immune Phenotyping IMC Panel Kit (Cat. No. 9100003) delineates lymphoid\nand myeloid cell subtypes of immune cell infiltrates in tumors.\n\nComposition of the immune cells in the tumor immune microenvironment (TIME) is of vital importance for predicting treatment response and overall clinical outcomes. Delineation of specific immune cell populations and their spatial organization in the TIME is required for discovering promising immunomodulatory cancer therapeutics. The Mouse Immune Phenotyping Panel offers 8 distinct markers that enable identification of lymphoid and myeloid immune cell infiltrates in tumors. Cytotoxic T cells (CD8) and helper T cells (CD4) can be detected amongst the total immune cell infiltrates in NSCLC. While B cells were not observed in NSCLC, MHC class II expression delineates antigen-presenting cells in NSCLC, and macrophages, myeloid-derived suppressor cells (MDSCs), and neutrophils can be detected by expression of F4/80, CD11b, and Ly-6G in NSCLC.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Mouse Immune Phenotyping Panel",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.45597656249999996,
+                    "Pan": [
+                        0.5000000000000019,
+                        0.3915729355002917
+                    ]
+                },
+                {
+                    "Name": "Mouse Cancer Cell Process Panel",
+                    "Description": "Tumors exhibit heterogenous phenotypes due to clonal evolution of cancer cells during tumorigenesis. Each cancer stem cell-derived population has a unique molecular signature that fine-tunes cellular processes. The Mouse Cancer Cell Process Panel reveals signaling pathway activation, proliferation, metabolism, and epithelial to mesenchymal transition (EMT), thus highlighting the variety of cancerous cell processes in the mouse TME.\n\nRas signaling modulates growth rate and metastasis of tumors and initiates upon activation of receptor tyrosine kinases (RTKs), which phosphorylate tyrosine residues (pTyr) on signaling receptors. Subsequent activation of the phospho-relay pathway results in activation of extracellular signal-regulated kinases, ERK1 and ERK2 (pERK1/2). The Mouse Cancer Cell Process Panel offers pTyr and pERK1/2 markers for assessment of canonical and non-canonical Ras signaling. In NSCLC, elevated levels of pTyr and pERK1/2 in cells indicates activation of Ras signaling.\n\nTumors rely on a constant supply of nutrients for sustained growth, made possible by constitutive activation of glycolytic metabolism21. Phosphorylation of ribosomal protein S6 (pS6) is a step in the mammalian target of rapamycin (mTOR) signaling cascade that regulates metabolic activity in cells. Ki-67 is an exclusive nuclear marker for proliferating cells that is present at all active stages of the cell cycle. The Mouse Cancer Cell Process Panel offers both pS6 and Ki-67 markers for the assessment of metabolic activity and tumor growth. InNSCLC, cells with individual and concomitant expression of pS6 and Ki-67 can be detected, indicating metabolic and growth capacity of tissues.\n\nEMT is linked to promoting cancer morbidity by contributing to tumor initiation, invasion, and resistance to therapeutic interventions. During EMT, tumor cells disrupt cell-cell adhesions and activate pro-migratory cellular machinery. The Mouse Cancer Cell Process Panel includes 6 markers for assessing cellular processes associated with EMT. In normal lung tissue and NSCLC, high overlapping expression of cell-cell adhesion molecules, E-cadherin (E-cad), \u03b2-catenin (\u03b2-cat), and EpCAM highlight epithelial cells with suppressed EMT activation. Expression of cytoskeletal components vimentin (Vim) and \u03b2-actin (\u03b2-act) identifies cells with activated migratory capabilities in NSCLC tissue. Expression of the tumor suppressor marker BRCA1 indicates cells with low capacity for EMT in normal lung and NSCLC tissue.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Mouse Cancer Cell Process Panel",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.45597656249999996,
+                    "Pan": [
+                        0.5000000000000019,
+                        0.3915729355002917
+                    ]
+                },
+                {
+                    "Name": "Mouse Immune Activation Panel",
+                    "Description": "Controlling the activation of immune cells in the TIME is at the forefront of cancer immunotherapy research. The presence of pro-inflammatory immune cells or cytotoxic T cells in the TIME is generally considered a positive indicator for clinical outcomes, whereas the presence of regulatory T cells (Treg) specifies an inhibitory TIME with poor clinical prognosis. The Mouse Immune Activation Panel contains 3 distinct markers that enable identification of relevant activated immune cells in tumors. In NSCLC, proliferation of immune cells can be assessed by expression of Ki-67 . \n\nThe expression of granzyme B (GzmB) assesses the cytotoxic activation of CD8 T cells.\n\nFoxP3 expression identifies Tregs in NSCLC.  Activated macrophages expressing granzyme B are identified in NSCLC and B cell lymphoma ",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Mouse Immune Activation Panel",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.45597656249999996,
+                    "Pan": [
+                        0.5000000000000019,
+                        0.3915729355002917
+                    ]
+                },
+                {
+                    "Name": "Cell Segmentation Kit",
+                    "Description": "Any high-plex imaging analysis starts with cell segmentation. You can now segment with confidence using the IMC Cell Segmentation Kit. \n\nOur proprietary IMC Cell Segmentation Kit includes three individual plasma membrane markers for improved nucleus and plasma membrane demarcation. \n\nNotice how by using this kit 100% of all cells are stained with our cell segmentation markers, allowing this to be used as a unique tool to get robust datasets.\n\nSee how the use of this segmentation kit allowed for robust single cell analysis by reading our detailed application note at: \nhttps://www.standardbio.com/mouseimcpanels",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Cell Segmentation Panel",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.45597656249999996,
+                    "Pan": [
+                        0.5000000000000019,
+                        0.3915729355002917
+                    ]
+                },
+                {
+                    "Name": "Replicating and regulatory T Cells",
+                    "Description": "Ki-67 highlights replicating immune cells in NSCLC. FoxP3 expression in CD4 T cells identifies exhausted T regulatory cells \nRegulatory T cells are identified by arrows",
+                    "Arrows": [
+                        {
+                            "Text": "",
+                            "HideArrow": false,
+                            "Point": [
+                                0.2541285841962045,
+                                0.24550057777617396
+                            ],
+                            "Angle": 60
+                        },
+                        {
+                            "Text": "",
+                            "HideArrow": false,
+                            "Point": [
+                                0.36207487364002344,
+                                0.30778723821236986
+                            ],
+                            "Angle": 60
+                        },
+                        {
+                            "Text": "",
+                            "HideArrow": false,
+                            "Point": [
+                                0.25756018161569383,
+                                0.760113118448813
+                            ],
+                            "Angle": 60
+                        }
+                    ],
+                    "Overlays": [],
+                    "Group": "Replicating and Regulatory T Cells",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.45597656249999996,
+                    "Pan": [
+                        0.5000000000000002,
+                        0.60476162794431
+                    ]
+                }
+            ]
+        }
+    ],
+    "Masks": [],
+    "Groups": [
+        {
+            "Name": "Replicating and Regulatory T Cells",
+            "Path": "Replicating-and-Regulatory-T-Cells_39__DNA2--12__CD45--11__Ki67--22__CD8--25__FoxP3",
+            "Colors": [
+                "ffffff",
+                "ff0000",
+                "00ff00",
+                "ff00ff",
+                "ffffff"
+            ],
+            "Channels": [
+                "DNA2",
+                "CD45",
+                "Ki67",
+                "CD8",
+                "FoxP3"
+            ]
+        },
+        {
+            "Name": "Macrophages and neutrophils",
+            "Path": "Macrophages-and-neutrophils_39__DNA2--17__F4-80--26__Ly6G--23__CD11b--16__GzmB",
+            "Colors": [
+                "ffffff",
+                "7fff00",
+                "ff0000",
+                "0000ff",
+                "ff00ff"
+            ],
+            "Channels": [
+                "DNA2",
+                "F4-80",
+                "Ly6G",
+                "CD11b",
+                "GzmB"
+            ]
+        },
+        {
+            "Name": "Mouse Immune Activation Panel",
+            "Path": "Mouse-Immune-Activation-Panel_39__DNA2--12__CD45--11__Ki67--25__FoxP3--16__GzmB",
+            "Colors": [
+                "ffffff",
+                "ff0000",
+                "00ff00",
+                "ffffff",
+                "00ffff"
+            ],
+            "Channels": [
+                "DNA2",
+                "CD45",
+                "Ki67",
+                "FoxP3",
+                "GzmB"
+            ]
+        },
+        {
+            "Name": "Mouse Cancer Cell Process Panel",
+            "Path": "Mouse-Cancer-Cell-Process-Panel_39__DNA2--8__pTyr--24__pERK1-2--29__B-Catenin--12__CD45--15__B-Actin--35__pS6",
+            "Colors": [
+                "ffffff",
+                "00ff00",
+                "00ffff",
+                "0000ff",
+                "00ff00",
+                "ff0000",
+                "ff00ff"
+            ],
+            "Channels": [
+                "DNA2",
+                "pTyr",
+                "pERK1-2",
+                "B-Catenin",
+                "CD45",
+                "B-Actin",
+                "pS6"
+            ]
+        },
+        {
+            "Name": "Cell Segmentation Panel",
+            "Path": "Cell-Segmentation-Panel_40__ICSK1--41__ICSK2--42__ICSK3--39__DNA2",
+            "Colors": [
+                "ff00ff",
+                "ff00ff",
+                "ff00ff",
+                "ffffff"
+            ],
+            "Channels": [
+                "ICSK1",
+                "ICSK2",
+                "ICSK3",
+                "DNA2"
+            ]
+        },
+        {
+            "Name": "Mouse Tissue Architecture Panel",
+            "Path": "Mouse-Tissue-Architecture-Panel_39__DNA2--7__aSMA--31__CD31--34__Pan-Cytokeratin--33__Collagen-I--13__Fibronectin",
+            "Colors": [
+                "ffffff",
+                "0000ff",
+                "ffff00",
+                "ff0000",
+                "00ff00",
+                "ff00ff"
+            ],
+            "Channels": [
+                "DNA2",
+                "aSMA",
+                "CD31",
+                "Pan-Cytokeratin",
+                "Collagen-I",
+                "Fibronectin"
+            ]
+        },
+        {
+            "Name": "Mouse Immune Phenotyping Panel",
+            "Path": "Mouse-Immune-Phenotyping-Panel_39__DNA2--22__CD8--23__CD11b--17__F4-80--12__CD45",
+            "Colors": [
+                "ffffff",
+                "ff00ff",
+                "00ffff",
+                "ff0000",
+                "00ff00"
+            ],
+            "Channels": [
+                "DNA2",
+                "CD8",
+                "CD11b",
+                "F4-80",
+                "CD45"
+            ]
+        },
+        {
+            "Name": "Non Small Cell Lung Cancer Overview",
+            "Path": "Non-Small-Cell-Lung-Cancer-Overview_14__CD44--10__Vimentin--12__CD45--23__CD11b--24__pERK1-2",
+            "Colors": [
+                "00ff00",
+                "ff0000",
+                "ff00ff",
+                "ffffff",
+                "00ffff"
+            ],
+            "Channels": [
+                "CD44",
+                "Vimentin",
+                "CD45",
+                "CD11b",
+                "pERK1-2"
+            ]
+        }
+    ]
+}

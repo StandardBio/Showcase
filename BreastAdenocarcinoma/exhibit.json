@@ -1,1 +1,365 @@
-{"Images": [{"Name": "i0", "Description": "", "Path": "images/BreastAdenocarcinoma", "Width": 2000, "Height": 2000, "MaxLevel": 0}], "Header": "", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "", "Waypoints": [{"Name": "Tissue architecture", "Description": "Breast adenocarcinoma tissue architecture is defined by spatial constraints within the mammary ductal network and dynamic interactions with the extracellular matrix (ECM).  This architectural interplay between confined ductal topology and matrix remodeling establishes cellular niches that drive both local progression and organ-specific metastasis. Pan-cytokeratin is an epithelial cell marker used to confirm adenocarcinoma origin. It helps distinguish carcinoma cells from stromal or immune components in histopathological analysis.CD45 identifies immune infiltrates that influence prognosis whereas CD31 marks vascular endothelial cells and aSMA defines stromal cell population. ", "Arrows": [], "Overlays": [], "Group": "Tissue architecture", "Masks": [], "ActiveMasks": [], "Zoom": 0.47073721740273405, "Pan": [0.5, 0.5]}, {"Name": "Myeloid cells", "Description": "Myeloid cells, particularly myeloid-derived suppressor cells (MDSCs) and tumor-associated macrophages (TAMs), play critical roles in the progression of breast adenocarcinoma by shaping the tumor microenvironment. MDSCs are recruited to the tumor site via cancer cell-derived cytokines and chemokines, where they suppress anti-tumor immune responses by inhibiting T-cell proliferation, promoting regulatory T-cell (Treg) infiltration, and inducing T-cell apoptosis. Beyond immunosuppression, MDSCs contribute to epithelial-to-mesenchymal transition, tumor invasion, and the formation of pre-metastatic niches. Similarly, TAMs support tumor growth through both immune-mediated and non-immune mechanisms, including promoting angiogenesis, enhancing cancer cell stemness, and facilitating metastasis. These myeloid cells also play a role in resistance to chemotherapy and immunotherapy, making them promising targets for therapeutic interventions aimed at modulating their recruitment, polarization, or activity within the tumor microenvironment.", "Arrows": [], "Overlays": [], "Group": "Myeloid cells", "Masks": [], "ActiveMasks": [], "Zoom": 0.4744791666666667, "Pan": [0.5, 0.5]}, {"Name": "Lymphoid cells", "Description": "Lymphoid cells, including T cells, B cells, and innate lymphoid cells, play diverse roles in breast adenocarcinoma by influencing tumor progression and immune responses. Tumor-infiltrating lymphocytes, particularly CD4\u207a and CD8\u207a T cells, are key mediators of anti-tumor immunity. Natural killer cells play a pivotal role in breast adenocarcinoma by mediating anti-tumor immunity through their cytotoxic functions, which involve recognizing and eliminating tumor cells expressing abnormal surface proteins. however, their functions can be subverted by the tumor microenvironment. Collectively, lymphoid cells exhibit both protective and tumor-promoting roles, making them critical targets for immunotherapy strategies in breast adenocarcinoma.", "Arrows": [], "Overlays": [], "Group": "Lymphoid cells", "Masks": [], "ActiveMasks": [], "Zoom": 0.4744791666666667, "Pan": [0.5, 0.5]}, {"Name": "Immune activation", "Description": "Immune cell activation in breast adenocarcinoma is a dynamic process influenced by the tumor microenvironment (TME) and immune signaling pathways. CD44, a marker of cancer stem cells, promotes tumor progression and immune evasion by facilitating epithelial-to-mesenchymal transition (EMT) and modulating T cell activation through its interaction with hyaluronan. HLA-DR, expressed on antigen-presenting cells and activated T cells, enhances adaptive immune responses by presenting tumor antigens to T cells, though its expression can be suppressed in the TME to favor immune escape. CD7, primarily found on T cells and NK cells, plays a role in lymphocyte activation and cytotoxicity but is often downregulated in advanced tumors to impair immune surveillance. CD38 is a multifunctional molecule involved in T cell activation and metabolic regulation. High CD38 expression correlates with enhanced immune responses. Granzyme B (GZMB), secreted by cytotoxic lymphocytes such as CD8\u207a T cells and NK cells, induces apoptosis in tumor cells. Together, these biomarkers illustrate the complex interplay between immune activation and suppression in breast adenocarcinoma, influencing both tumor progression and therapeutic outcomes", "Arrows": [], "Overlays": [], "Group": "Immune activation", "Masks": [], "ActiveMasks": [], "Zoom": 0.4744791666666667, "Pan": [0.5, 0.5]}, {"Name": "Tumor cell activation", "Description": "Tumor cell activation in breast adenocarcinoma is driven by a combination of molecular pathways and biomarkers. Ki-67 is a marker of cellular proliferation; its high expression correlates with aggressive tumor growth and poor prognosis, particularly in luminal B breast cancer. Elevated Ki-67 levels indicate active cell division, driving tumor progression and influencing treatment decisions such as chemotherapy or hormonal therapy. PD-L1, a key immune checkpoint molecule, facilitates immune evasion by binding to PD-1 on T cells, suppressing their activation and promoting tumor survival. Its overexpression is associated with poor prognosis in triple-negative breast cancer (TNBC) and resistance to immunotherapy, highlighting its role in immune modulation. Vimentin, an intermediate filament protein, is a hallmark of epithelial-to-mesenchymal transition (EMT), enabling tumor cells to acquire migratory and invasive properties critical for metastasis. Increased vimentin expression signifies a shift toward mesenchymal phenotypes, enhancing tumor aggressiveness. In contrast, E-cadherin, an epithelial adhesion molecule, is often downregulated during EMT. Loss of E-cadherin disrupts cell-cell adhesion, facilitating invasion and metastatic dissemination. Together, these biomarkers represent key drivers of tumor cell activation and progression in breast adenocarcinoma.", "Arrows": [], "Overlays": [], "Group": "Tumor cell activation", "Masks": [], "ActiveMasks": [], "Zoom": 0.4744791666666667, "Pan": [0.5, 0.5]}, {"Name": "HER2 status", "Description": "HER2 (human epidermal growth factor receptor 2) plays a critical role in breast adenocarcinoma through its extracellular and intracellular domains, which regulate tumor growth, survival, and metastasis. The extracellular domain (ECD) of HER2 functions as a receptor for ligand-independent dimerization with other HER family members, activating downstream signaling pathways that drive cell proliferation and survival. Proteolytic shedding of the ECD generates a truncated receptor (p95HER2) that remains membrane-bound and constitutively active. This truncated form is 10\u2013100 times more oncogenic than the full-length receptor, contributing to aggressive tumor behavior, metastasis, and resistance to therapies like trastuzumab. \nThe intracellular domain of HER2 contains the tyrosine kinase region responsible for activating key signaling cascades such as the PI3K/AKT and MAPK pathways. These pathways promote tumor cell proliferation, inhibit apoptosis, enhance motility, and regulate interactions with the tumor microenvironment. The kinase activity of HER2 is also implicated in resistance mechanisms; for example, the p95HER2 fragment retains its intracellular kinase domain, allowing continued signaling even when the ECD is targeted by therapies like trastuzumab. These dual roles of HER2's extracellular and intracellular domains underscore its importance as both a driver of breast adenocarcinoma progression and a therapeutic target.", "Arrows": [], "Overlays": [], "Group": "HER2 status", "Masks": [], "ActiveMasks": [], "Zoom": 0.4744791666666667, "Pan": [0.5, 0.5]}]}], "Channels": [{"Rendered": false, "Name": "panCK", "Path": "panCK_5__panCK"}, {"Rendered": false, "Name": "CD31", "Path": "CD31_15__CD31"}, {"Rendered": false, "Name": "Fibronectin", "Path": "Fibronectin_34__Fibronectin"}, {"Rendered": false, "Name": "CD45", "Path": "CD45_16__CD45"}, {"Rendered": false, "Name": "aSMA", "Path": "aSMA_47__aSMA"}, {"Rendered": false, "Name": "CD68", "Path": "CD68_22__CD68"}, {"Rendered": false, "Name": "CD163", "Path": "CD163_11__CD163"}, {"Rendered": false, "Name": "Granzyme B", "Path": "Granzyme-B_39__Granzyme-B"}, {"Rendered": false, "Name": "CD8", "Path": "CD8_25__CD8"}, {"Rendered": false, "Name": "CD4", "Path": "CD4_20__CD4"}, {"Rendered": false, "Name": "CD57", "Path": "CD57_26__CD57"}, {"Rendered": false, "Name": "Ecad", "Path": "Ecad_21__Ecad"}, {"Rendered": false, "Name": "Ki67", "Path": "Ki67_14__Ki67"}, {"Rendered": false, "Name": "PDL1", "Path": "PDL1_29__PDL1"}, {"Rendered": false, "Name": "Vimentin", "Path": "Vimentin_13__Vimentin"}, {"Rendered": false, "Name": "HER2ECD", "Path": "HER2ECD_31__HER2ECD"}, {"Rendered": false, "Name": "HER2ICD", "Path": "HER2ICD_23__HER2ICD"}, {"Rendered": false, "Name": "DNA", "Path": "DNA_41__DNA"}, {"Rendered": false, "Name": "CD38", "Path": "CD38_6__CD38"}, {"Rendered": false, "Name": "CD7", "Path": "CD7_7__CD7"}, {"Rendered": false, "Name": "CD44", "Path": "CD44_17__CD44"}, {"Rendered": false, "Name": "HLA-DR", "Path": "HLA-DR_37__HLA-DR"}], "Masks": [], "Groups": [{"Name": "Tissue architecture", "Colors": ["ff00ff", "ff0000", "0000ff", "00ff00", "ffff00"], "Channels": ["panCK", "CD31", "Fibronectin", "CD45", "aSMA"], "Descriptions": ["", "", "", "", ""]}, {"Name": "Myeloid cells", "Colors": ["0000ff", "ff00ff", "00ffff", "f8ff00"], "Channels": ["panCK", "CD68", "CD163", "Granzyme B"], "Descriptions": ["", "", "", ""]}, {"Name": "Lymphoid cells", "Colors": ["00ffff", "ff00ff", "0000ff", "ffff00"], "Channels": ["CD8", "CD4", "panCK", "CD57"], "Descriptions": ["", "", "", ""]}, {"Name": "Tumor cell activation", "Colors": ["0000ff", "ff0000", "00ff00", "d400ff"], "Channels": ["Ecad", "Ki67", "PDL1", "Vimentin"], "Descriptions": ["", "", "", ""]}, {"Name": "HER2 status", "Colors": ["ff0000", "00ff00", "0000ff"], "Channels": ["HER2ECD", "HER2ICD", "DNA"], "Descriptions": ["", "", ""]}, {"Name": "Immune activation", "Colors": ["ffff00", "ff0000", "00ff00", "0000ff", "00ffff"], "Channels": ["Granzyme B", "CD38", "CD7", "CD44", "HLA-DR"], "Descriptions": ["", "", "", "", ""]}], "PixelsPerMicron": 1, "FirstViewport": {"Pan": [0.4999999999999999, 0.5142700329308452], "Zoom": 0.4744791666666667}}
+{
+    "Images": [
+        {
+            "Name": "i0",
+            "Description": "",
+            "Path": "images/BreastAdenocarcinoma",
+            "Width": 3840,
+            "Height": 3840,
+            "MaxLevel": 0
+        }
+    ],
+    "Header": "",
+    "Rotation": 0,
+    "Layout": {
+        "Grid": [
+            [
+                "i0"
+            ]
+        ]
+    },
+    "Stories": [
+        {
+            "Name": "",
+            "Description": "",
+            "Waypoints": [
+                {
+                    "Name": "Tissue architecture",
+                    "Description": "Breast adenocarcinoma tissue architecture is defined by spatial constraints within the mammary ductal network and dynamic interactions with the extracellular matrix (ECM).  This architectural interplay between confined ductal topology and matrix remodeling establishes cellular niches that drive both local progression and organ-specific metastasis. Pan-cytokeratin is an epithelial cell marker used to confirm adenocarcinoma origin. It helps distinguish carcinoma cells from stromal or immune components in histopathological analysis.CD45 identifies immune infiltrates that influence prognosis whereas CD31 marks vascular endothelial cells and aSMA defines stromal cell population. ",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Tissue architecture",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.47073721740273405,
+                    "Pan": [
+                        0.5,
+                        0.5
+                    ]
+                },
+                {
+                    "Name": "Myeloid cells",
+                    "Description": "Myeloid cells, particularly myeloid-derived suppressor cells (MDSCs) and tumor-associated macrophages (TAMs), play critical roles in the progression of breast adenocarcinoma by shaping the tumor microenvironment. MDSCs are recruited to the tumor site via cancer cell-derived cytokines and chemokines, where they suppress anti-tumor immune responses by inhibiting T-cell proliferation, promoting regulatory T-cell (Treg) infiltration, and inducing T-cell apoptosis. Beyond immunosuppression, MDSCs contribute to epithelial-to-mesenchymal transition, tumor invasion, and the formation of pre-metastatic niches. Similarly, TAMs support tumor growth through both immune-mediated and non-immune mechanisms, including promoting angiogenesis, enhancing cancer cell stemness, and facilitating metastasis. These myeloid cells also play a role in resistance to chemotherapy and immunotherapy, making them promising targets for therapeutic interventions aimed at modulating their recruitment, polarization, or activity within the tumor microenvironment.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Myeloid cells",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.4744791666666667,
+                    "Pan": [
+                        0.5,
+                        0.5
+                    ]
+                },
+                {
+                    "Name": "Lymphoid cells",
+                    "Description": "Lymphoid cells, including T cells, B cells, and innate lymphoid cells, play diverse roles in breast adenocarcinoma by influencing tumor progression and immune responses. Tumor-infiltrating lymphocytes, particularly CD4\u207a and CD8\u207a T cells, are key mediators of anti-tumor immunity. Natural killer cells play a pivotal role in breast adenocarcinoma by mediating anti-tumor immunity through their cytotoxic functions, which involve recognizing and eliminating tumor cells expressing abnormal surface proteins. however, their functions can be subverted by the tumor microenvironment. Collectively, lymphoid cells exhibit both protective and tumor-promoting roles, making them critical targets for immunotherapy strategies in breast adenocarcinoma.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Lymphoid cells",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.4744791666666667,
+                    "Pan": [
+                        0.5,
+                        0.5
+                    ]
+                },
+                {
+                    "Name": "Immune activation",
+                    "Description": "Immune cell activation in breast adenocarcinoma is a dynamic process influenced by the tumor microenvironment (TME) and immune signaling pathways. CD44, a marker of cancer stem cells, promotes tumor progression and immune evasion by facilitating epithelial-to-mesenchymal transition (EMT) and modulating T cell activation through its interaction with hyaluronan. HLA-DR, expressed on antigen-presenting cells and activated T cells, enhances adaptive immune responses by presenting tumor antigens to T cells, though its expression can be suppressed in the TME to favor immune escape. CD7, primarily found on T cells and NK cells, plays a role in lymphocyte activation and cytotoxicity but is often downregulated in advanced tumors to impair immune surveillance. CD38 is a multifunctional molecule involved in T cell activation and metabolic regulation. High CD38 expression correlates with enhanced immune responses. Granzyme B (GZMB), secreted by cytotoxic lymphocytes such as CD8\u207a T cells and NK cells, induces apoptosis in tumor cells. Together, these biomarkers illustrate the complex interplay between immune activation and suppression in breast adenocarcinoma, influencing both tumor progression and therapeutic outcomes",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Immune activation",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.4744791666666667,
+                    "Pan": [
+                        0.5,
+                        0.5
+                    ]
+                },
+                {
+                    "Name": "Tumor cell activation",
+                    "Description": "Tumor cell activation in breast adenocarcinoma is driven by a combination of molecular pathways and biomarkers. Ki-67 is a marker of cellular proliferation; its high expression correlates with aggressive tumor growth and poor prognosis, particularly in luminal B breast cancer. Elevated Ki-67 levels indicate active cell division, driving tumor progression and influencing treatment decisions such as chemotherapy or hormonal therapy. PD-L1, a key immune checkpoint molecule, facilitates immune evasion by binding to PD-1 on T cells, suppressing their activation and promoting tumor survival. Its overexpression is associated with poor prognosis in triple-negative breast cancer (TNBC) and resistance to immunotherapy, highlighting its role in immune modulation. Vimentin, an intermediate filament protein, is a hallmark of epithelial-to-mesenchymal transition (EMT), enabling tumor cells to acquire migratory and invasive properties critical for metastasis. Increased vimentin expression signifies a shift toward mesenchymal phenotypes, enhancing tumor aggressiveness. In contrast, E-cadherin, an epithelial adhesion molecule, is often downregulated during EMT. Loss of E-cadherin disrupts cell-cell adhesion, facilitating invasion and metastatic dissemination. Together, these biomarkers represent key drivers of tumor cell activation and progression in breast adenocarcinoma.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Tumor cell activation",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.4744791666666667,
+                    "Pan": [
+                        0.5,
+                        0.5
+                    ]
+                },
+                {
+                    "Name": "HER2 status",
+                    "Description": "HER2 (human epidermal growth factor receptor 2) plays a critical role in breast adenocarcinoma through its extracellular and intracellular domains, which regulate tumor growth, survival, and metastasis. The extracellular domain (ECD) of HER2 functions as a receptor for ligand-independent dimerization with other HER family members, activating downstream signaling pathways that drive cell proliferation and survival. Proteolytic shedding of the ECD generates a truncated receptor (p95HER2) that remains membrane-bound and constitutively active. This truncated form is 10\u2013100 times more oncogenic than the full-length receptor, contributing to aggressive tumor behavior, metastasis, and resistance to therapies like trastuzumab. \nThe intracellular domain of HER2 contains the tyrosine kinase region responsible for activating key signaling cascades such as the PI3K/AKT and MAPK pathways. These pathways promote tumor cell proliferation, inhibit apoptosis, enhance motility, and regulate interactions with the tumor microenvironment. The kinase activity of HER2 is also implicated in resistance mechanisms; for example, the p95HER2 fragment retains its intracellular kinase domain, allowing continued signaling even when the ECD is targeted by therapies like trastuzumab. These dual roles of HER2's extracellular and intracellular domains underscore its importance as both a driver of breast adenocarcinoma progression and a therapeutic target.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "HER2 status",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.4744791666666667,
+                    "Pan": [
+                        0.5,
+                        0.5
+                    ]
+                }
+            ]
+        }
+    ],
+    "Channels": [
+        {
+            "Rendered": false,
+            "Name": "panCK",
+            "Path": "panCK_5__panCK"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD31",
+            "Path": "CD31_15__CD31"
+        },
+        {
+            "Rendered": false,
+            "Name": "Fibronectin",
+            "Path": "Fibronectin_34__Fibronectin"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD45",
+            "Path": "CD45_16__CD45"
+        },
+        {
+            "Rendered": false,
+            "Name": "aSMA",
+            "Path": "aSMA_47__aSMA"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD68",
+            "Path": "CD68_22__CD68"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD163",
+            "Path": "CD163_11__CD163"
+        },
+        {
+            "Rendered": false,
+            "Name": "Granzyme B",
+            "Path": "Granzyme-B_39__Granzyme-B"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD8",
+            "Path": "CD8_25__CD8"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD4",
+            "Path": "CD4_20__CD4"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD57",
+            "Path": "CD57_26__CD57"
+        },
+        {
+            "Rendered": false,
+            "Name": "Ecad",
+            "Path": "Ecad_21__Ecad"
+        },
+        {
+            "Rendered": false,
+            "Name": "Ki67",
+            "Path": "Ki67_14__Ki67"
+        },
+        {
+            "Rendered": false,
+            "Name": "PDL1",
+            "Path": "PDL1_29__PDL1"
+        },
+        {
+            "Rendered": false,
+            "Name": "Vimentin",
+            "Path": "Vimentin_13__Vimentin"
+        },
+        {
+            "Rendered": false,
+            "Name": "HER2ECD",
+            "Path": "HER2ECD_31__HER2ECD"
+        },
+        {
+            "Rendered": false,
+            "Name": "HER2ICD",
+            "Path": "HER2ICD_23__HER2ICD"
+        },
+        {
+            "Rendered": false,
+            "Name": "DNA",
+            "Path": "DNA_41__DNA"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD38",
+            "Path": "CD38_6__CD38"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD7",
+            "Path": "CD7_7__CD7"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD44",
+            "Path": "CD44_17__CD44"
+        },
+        {
+            "Rendered": false,
+            "Name": "HLA-DR",
+            "Path": "HLA-DR_37__HLA-DR"
+        }
+    ],
+    "Masks": [],
+    "Groups": [
+        {
+            "Name": "Tissue architecture",
+            "Colors": [
+                "ff00ff",
+                "ff0000",
+                "0000ff",
+                "00ff00",
+                "ffff00"
+            ],
+            "Channels": [
+                "panCK",
+                "CD31",
+                "Fibronectin",
+                "CD45",
+                "aSMA"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Myeloid cells",
+            "Colors": [
+                "0000ff",
+                "ff00ff",
+                "00ffff",
+                "f8ff00"
+            ],
+            "Channels": [
+                "panCK",
+                "CD68",
+                "CD163",
+                "Granzyme B"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Lymphoid cells",
+            "Colors": [
+                "00ffff",
+                "ff00ff",
+                "0000ff",
+                "ffff00"
+            ],
+            "Channels": [
+                "CD8",
+                "CD4",
+                "panCK",
+                "CD57"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Tumor cell activation",
+            "Colors": [
+                "0000ff",
+                "ff0000",
+                "00ff00",
+                "d400ff"
+            ],
+            "Channels": [
+                "Ecad",
+                "Ki67",
+                "PDL1",
+                "Vimentin"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "HER2 status",
+            "Colors": [
+                "ff0000",
+                "00ff00",
+                "0000ff"
+            ],
+            "Channels": [
+                "HER2ECD",
+                "HER2ICD",
+                "DNA"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Immune activation",
+            "Colors": [
+                "ffff00",
+                "ff0000",
+                "00ff00",
+                "0000ff",
+                "00ffff"
+            ],
+            "Channels": [
+                "Granzyme B",
+                "CD38",
+                "CD7",
+                "CD44",
+                "HLA-DR"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "PixelsPerMicron": 0.5208333333333334,
+    "FirstViewport": {
+        "Pan": [
+            0.4999999999999999,
+            0.5142700329308452
+        ],
+        "Zoom": 0.4744791666666667
+    }
+}

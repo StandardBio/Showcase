@@ -1,1 +1,224 @@
-{"Images": [{"Name": "i0", "Description": "Melanoma (Skin) - Human", "Path": "images/skinhuman", "Width": 999, "Height": 999, "MaxLevel": 0}], "Header": "High-plex imaging is becoming an increasingly valuable tool to study the tumor microenvironment (TME) in immuno-oncology. Imaging Mass Cytometry\u2122(IMC\u2122) enables the visualization and analysis of the complex spatial biology of the TME. IMC permits detailed assessment of cell phenotype and function using 40-plus markers simultaneously at subcellular resolution on a single slide without spectral overlap or autofluorescence. The ability to analyze multiple markers can facilitate accurate prediction of disease progression and clinical outcome measures from precious tissue samples and microarrays. Here, we demonstrate how our reagents and technology support these applications.\n\nHigh-plex antibody panels targeting T cells, natural killer cells, myeloid cells, immune checkpoint markers, epithelial-to-mesenchymal transition (EMT) and extracellular matrix (ECM) proteins were used to study the immune microenvironment in multiple cancer histologies. We used the Maxpar\u00ae Human Immuno-Oncology IMC Panel Kit as a base panel that was expanded to create the desired panel for each tissue.", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "", "Waypoints": [{"Name": "Myeloid cell infiltration in skin melanoma", "Description": "IMC staining of melanoma from skin shows presence of strong signal for myeloid cells (CD14, CD11c, HLA-DR) in the tumor area (vimentin). CD11c and HLA-DR co-localization appears as yellow. ", "Arrows": [], "Overlays": [], "Group": "Myeloid Cells", "Masks": [], "ActiveMasks": [], "Zoom": 0.45597656249999996, "Pan": [0.5, 0.6760972174528247]}, {"Name": "Myeloid cell infiltration in skin melanoma #2", "Description": "IMC staining of melanoma from skin shows presence of strong signal for myeloid cells (CD14, CD11c, HLA-DR) in the tumor area (vimentin). Ki-67 staining shows active proliferation in the tumor tissue.", "Arrows": [], "Overlays": [], "Group": "Tumor cell proliferation", "Masks": [], "ActiveMasks": [], "Zoom": 0.45597656249999996, "Pan": [0.5, 0.6760972174528247]}, {"Name": "Myeloid cell infiltration in skin melanoma #3", "Description": "IMC staining of melanoma from skin shows presence of strong signal for myeloid cells (CD14, CD11c, HLA-DR) in the tumor area (vimentin), together with other immune markers.", "Arrows": [], "Overlays": [], "Group": "Myeloid cell markers", "Masks": [], "ActiveMasks": [], "Zoom": 0.45597656249999996, "Pan": [0.5, 0.6760972174528247]}, {"Name": "Lymphocyte Subsets and Tumor", "Description": "You can visualize T cell subsets and B cells across this section of skin melanoma. \nNotice how CD4 and CD8 cell signal does not overlap and how even rare B cells (in pink) can be identified with CD20", "Arrows": [], "Overlays": [], "Group": "Lymphocyte Subsets and Tumor", "Masks": [], "ActiveMasks": [], "Zoom": 0.7879274999999999, "Pan": [0.5298893161811565, 0.656274334200866]}, {"Name": "Cell segmentation kit", "Description": "Any high-plex imaging analysis starts with cell segmentation. You can now segment with confidence using the IMC Cell Segmentation Kit*.\n\nOur proprietary IMC Cell Segmentation Kit includes three individual plasma membrane markers for improved nucleus and plasma membrane demarcation.\n\nNotice how by using this kit 100% of all cells are stained with our cell segmentation markers, allowing this to be used as a unique tool to get robust datasets.\n", "Arrows": [], "Overlays": [], "Group": "Cell Segmentation Kit", "Masks": [], "ActiveMasks": [], "Zoom": 0.48684375, "Pan": [0.5, 0.6717644618202421]}, {"Name": "", "Description": "", "Arrows": [], "Overlays": [], "Group": "Cell Segmentation Kit", "Masks": [], "ActiveMasks": [], "Zoom": 0.45597656249999996, "Pan": [0.5, 0.6760972174528247]}]}], "Masks": [], "Groups": [{"Name": "Myeloid cell markers", "Path": "Myeloid-cell-markers_48__DNA--18__CD31--26__CD68--19__CD45--12__CD163--28__CD14", "Colors": ["ffffff", "00ffff", "ff0000", "00ff7f", "00ff00", "00ffff"], "Channels": ["DNA", "CD31", "CD68", "CD45", "CD163", "CD14"]}, {"Name": "Cell Segmentation Kit", "Path": "Cell-Segmentation-Kit_48__DNA--51__ICSK1--52__ICSK2--53__ICSK3", "Colors": ["ffffff", "ff00ff", "ff00ff", "ff00ff"], "Channels": ["DNA", "ICSK1", "ICSK2", "ICSK3"]}, {"Name": "Lymphocyte Subsets and Tumor", "Path": "Lymphocyte-Subsets-and-Tumor_48__DNA--30__CD8--23__CD4--29__CD20--7__Vimentin", "Colors": ["ffffff", "ff0000", "00ff00", "ff00ff", "00ffff"], "Channels": ["DNA", "CD8", "CD4", "CD20", "Vimentin"]}, {"Name": "Tumor cell proliferation", "Path": "Tumor-cell-proliferation_48__DNA--37__Ki67--28__CD14--41__MHC-Class-II--7__Vimentin", "Colors": ["ffffff", "00ffff", "ffff00", "ff0000", "ff00ff"], "Channels": ["DNA", "Ki67", "CD14", "MHC Class II", "Vimentin"]}, {"Name": "Myeloid Cells", "Path": "Myeloid-Cells_48__DNA--7__Vimentin--38__CollagenI--21__CD11c--44__HLA-DR", "Colors": ["ffffff", "ff00ff", "00ffff", "ff0000", "00ff00"], "Channels": ["DNA", "Vimentin", "CollagenI", "CD11c", "HLA-DR"]}, {"Name": "Melanoma Overview", "Path": "Melanoma-Overview_48__DNA--7__Vimentin--41__MHC-Class-II--37__Ki67--47__pHistone-H3", "Colors": ["ffffff", "ff00ff", "00ffff", "ffff00", "ff0000"], "Channels": ["DNA", "Vimentin", "MHC Class II", "Ki67", "pHistone H3"]}]}
+{
+    "Images": [
+        {
+            "Name": "i0",
+            "Description": "Melanoma (Skin) - Human",
+            "Path": "images/skinhuman",
+            "Width": 3840,
+            "Height": 3840,
+            "MaxLevel": 0
+        }
+    ],
+    "Header": "High-plex imaging is becoming an increasingly valuable tool to study the tumor microenvironment (TME) in immuno-oncology. Imaging Mass Cytometry\u2122(IMC\u2122) enables the visualization and analysis of the complex spatial biology of the TME. IMC permits detailed assessment of cell phenotype and function using 40-plus markers simultaneously at subcellular resolution on a single slide without spectral overlap or autofluorescence. The ability to analyze multiple markers can facilitate accurate prediction of disease progression and clinical outcome measures from precious tissue samples and microarrays. Here, we demonstrate how our reagents and technology support these applications.\n\nHigh-plex antibody panels targeting T cells, natural killer cells, myeloid cells, immune checkpoint markers, epithelial-to-mesenchymal transition (EMT) and extracellular matrix (ECM) proteins were used to study the immune microenvironment in multiple cancer histologies. We used the Maxpar\u00ae Human Immuno-Oncology IMC Panel Kit as a base panel that was expanded to create the desired panel for each tissue.",
+    "Rotation": 0,
+    "Layout": {
+        "Grid": [
+            [
+                "i0"
+            ]
+        ]
+    },
+    "Stories": [
+        {
+            "Name": "",
+            "Description": "",
+            "Waypoints": [
+                {
+                    "Name": "Myeloid cell infiltration in skin melanoma",
+                    "Description": "IMC staining of melanoma from skin shows presence of strong signal for myeloid cells (CD14, CD11c, HLA-DR) in the tumor area (vimentin). CD11c and HLA-DR co-localization appears as yellow. ",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Myeloid Cells",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.45597656249999996,
+                    "Pan": [
+                        0.5,
+                        0.6760972174528247
+                    ]
+                },
+                {
+                    "Name": "Myeloid cell infiltration in skin melanoma #2",
+                    "Description": "IMC staining of melanoma from skin shows presence of strong signal for myeloid cells (CD14, CD11c, HLA-DR) in the tumor area (vimentin). Ki-67 staining shows active proliferation in the tumor tissue.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Tumor cell proliferation",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.45597656249999996,
+                    "Pan": [
+                        0.5,
+                        0.6760972174528247
+                    ]
+                },
+                {
+                    "Name": "Myeloid cell infiltration in skin melanoma #3",
+                    "Description": "IMC staining of melanoma from skin shows presence of strong signal for myeloid cells (CD14, CD11c, HLA-DR) in the tumor area (vimentin), together with other immune markers.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Myeloid cell markers",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.45597656249999996,
+                    "Pan": [
+                        0.5,
+                        0.6760972174528247
+                    ]
+                },
+                {
+                    "Name": "Lymphocyte Subsets and Tumor",
+                    "Description": "You can visualize T cell subsets and B cells across this section of skin melanoma. \nNotice how CD4 and CD8 cell signal does not overlap and how even rare B cells (in pink) can be identified with CD20",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Lymphocyte Subsets and Tumor",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.7879274999999999,
+                    "Pan": [
+                        0.5298893161811565,
+                        0.656274334200866
+                    ]
+                },
+                {
+                    "Name": "Cell segmentation kit",
+                    "Description": "Any high-plex imaging analysis starts with cell segmentation. You can now segment with confidence using the IMC Cell Segmentation Kit*.\n\nOur proprietary IMC Cell Segmentation Kit includes three individual plasma membrane markers for improved nucleus and plasma membrane demarcation.\n\nNotice how by using this kit 100% of all cells are stained with our cell segmentation markers, allowing this to be used as a unique tool to get robust datasets.\n",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Cell Segmentation Kit",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.48684375,
+                    "Pan": [
+                        0.5,
+                        0.6717644618202421
+                    ]
+                },
+                {
+                    "Name": "",
+                    "Description": "",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Cell Segmentation Kit",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.45597656249999996,
+                    "Pan": [
+                        0.5,
+                        0.6760972174528247
+                    ]
+                }
+            ]
+        }
+    ],
+    "Masks": [],
+    "Groups": [
+        {
+            "Name": "Myeloid cell markers",
+            "Path": "Myeloid-cell-markers_48__DNA--18__CD31--26__CD68--19__CD45--12__CD163--28__CD14",
+            "Colors": [
+                "ffffff",
+                "00ffff",
+                "ff0000",
+                "00ff7f",
+                "00ff00",
+                "00ffff"
+            ],
+            "Channels": [
+                "DNA",
+                "CD31",
+                "CD68",
+                "CD45",
+                "CD163",
+                "CD14"
+            ]
+        },
+        {
+            "Name": "Cell Segmentation Kit",
+            "Path": "Cell-Segmentation-Kit_48__DNA--51__ICSK1--52__ICSK2--53__ICSK3",
+            "Colors": [
+                "ffffff",
+                "ff00ff",
+                "ff00ff",
+                "ff00ff"
+            ],
+            "Channels": [
+                "DNA",
+                "ICSK1",
+                "ICSK2",
+                "ICSK3"
+            ]
+        },
+        {
+            "Name": "Lymphocyte Subsets and Tumor",
+            "Path": "Lymphocyte-Subsets-and-Tumor_48__DNA--30__CD8--23__CD4--29__CD20--7__Vimentin",
+            "Colors": [
+                "ffffff",
+                "ff0000",
+                "00ff00",
+                "ff00ff",
+                "00ffff"
+            ],
+            "Channels": [
+                "DNA",
+                "CD8",
+                "CD4",
+                "CD20",
+                "Vimentin"
+            ]
+        },
+        {
+            "Name": "Tumor cell proliferation",
+            "Path": "Tumor-cell-proliferation_48__DNA--37__Ki67--28__CD14--41__MHC-Class-II--7__Vimentin",
+            "Colors": [
+                "ffffff",
+                "00ffff",
+                "ffff00",
+                "ff0000",
+                "ff00ff"
+            ],
+            "Channels": [
+                "DNA",
+                "Ki67",
+                "CD14",
+                "MHC Class II",
+                "Vimentin"
+            ]
+        },
+        {
+            "Name": "Myeloid Cells",
+            "Path": "Myeloid-Cells_48__DNA--7__Vimentin--38__CollagenI--21__CD11c--44__HLA-DR",
+            "Colors": [
+                "ffffff",
+                "ff00ff",
+                "00ffff",
+                "ff0000",
+                "00ff00"
+            ],
+            "Channels": [
+                "DNA",
+                "Vimentin",
+                "CollagenI",
+                "CD11c",
+                "HLA-DR"
+            ]
+        },
+        {
+            "Name": "Melanoma Overview",
+            "Path": "Melanoma-Overview_48__DNA--7__Vimentin--41__MHC-Class-II--37__Ki67--47__pHistone-H3",
+            "Colors": [
+                "ffffff",
+                "ff00ff",
+                "00ffff",
+                "ffff00",
+                "ff0000"
+            ],
+            "Channels": [
+                "DNA",
+                "Vimentin",
+                "MHC Class II",
+                "Ki67",
+                "pHistone H3"
+            ]
+        }
+    ]
+}
