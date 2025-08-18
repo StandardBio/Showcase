@@ -1,1 +1,190 @@
-{"Images": [{"Name": "i0", "Description": " Clear cell renal cell carcinoma (ccRCC)", "Path": "images/ccRCC", "Width": 2390, "Height": 2600, "MaxLevel": 0}], "Header": "This whole tissue section of stage III ccRCC was acquired on an Hyperion XTi in Tissue. It contains a large component of tumor\nand stromal cells with multiple TLS-like structures found within tumor\ncells and tumor margins", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "", "Waypoints": [{"Name": "Immune Cells", "Description": "This view of immune markers shows CD20 (green), CD8a (red), CD4 (cyan), as well as CAIX (blue). This view highlights the presence of tertiary lymphoid structures (TLS), which appear primarily as a mixture of green and cyan, as well as other T cell enriched regions.", "Arrows": [], "Overlays": [], "Group": "Immune", "Masks": [], "ActiveMasks": [], "Zoom": 1.153278, "Pan": [0.32071810890735114, 0.49921733679019026]}, {"Name": "M2 Macrophage Infiltration", "Description": "The data suggests a significant involvement of M2 macrophages in stage III ccRCC. Immuno-suppressive M2 macrophages surround TLS with a small degree of penetration. The presence of CD4+ PD-1+ T cells in TLS near M2 macrophages suggests M2 macrophages contribute to an exhausted CD4+ T cell phenotype.", "Arrows": [], "Overlays": [], "Group": "M2 Infiltration", "Masks": [], "ActiveMasks": [], "Zoom": 1.3306604439403484, "Pan": [0.5784631876526862, 0.5224374491715432]}]}], "Channels": [{"Rendered": false, "Name": "Collagen 1", "Path": "Collagen-1_2__Collagen-1"}, {"Rendered": false, "Name": "CAIX", "Path": "CAIX_14__CAIX"}, {"Rendered": false, "Name": "CD3", "Path": "CD3_40__CD3"}, {"Rendered": false, "Name": "CD20", "Path": "CD20_6__CD20"}, {"Rendered": false, "Name": "CD16", "Path": "CD16_17__CD16"}, {"Rendered": false, "Name": "CD4", "Path": "CD4_27__CD4"}, {"Rendered": false, "Name": "CD8a", "Path": "CD8a_32__CD8a"}, {"Rendered": false, "Name": "CD163", "Path": "CD163_18__CD163"}, {"Rendered": false, "Name": "CD68", "Path": "CD68_29__CD68"}, {"Rendered": false, "Name": "PD-1", "Path": "PD-1_35__PD-1"}], "Masks": [], "Groups": [{"Name": "Overview", "Colors": ["00ff00", "0000ff", "ff0000", "ffff00", "00ffff"], "Channels": ["Collagen 1", "CAIX", "CD3", "CD20", "CD16"], "Descriptions": ["", "", "", "", ""]}, {"Name": "Immune", "Colors": ["00ff00", "00ffff", "ff0000", "0000ff"], "Channels": ["CD20", "CD4", "CD8a", "CAIX"], "Descriptions": ["", "", "", ""]}, {"Name": "M2 Infiltration", "Colors": ["ff0000", "00ff00", "0000ff", "ff00ff", "ffff00"], "Channels": ["CD163", "CD20", "CD3", "CD68", "PD-1"], "Descriptions": ["", "", "", "", ""]}], "PixelsPerMicron": 0.2, "FirstGroup": "Overview", "FirstViewport": {"Zoom": 0.5099449157714845, "Pan": [0.45961538461538465, 0.49999999999999994]}}
+{
+    "Images": [
+        {
+            "Name": "i0",
+            "Description": " Clear cell renal cell carcinoma (ccRCC)",
+            "Path": "images/ccRCC",
+            "Width": 2390,
+            "Height": 2600,
+            "MaxLevel": 0
+        }
+    ],
+    "Header": "Identifying cellular and spatial composition of the tumor microenvironment (TME) is vital for interpretation of disease origin, progression, prognosis and treatment options.\n\nImaging Mass Cytometry™ (IMC™) technology is a spatial biology imaging technique that enables deep characterization of the TME. Here, a whole tissue section of Stage 3 ccRCC was acquired on a Hyperion™ XTi Imaging System using Tissue Mode. This imaging mode generates a high-quality scan of the entire tissue section in a matter of hours. The spatial relationships of immune subsets relative to tumor cells, vasculature and stromal components were resolved, uncovering distinct patterns of immune infiltration and congregation. A large component of tumor and stromal cells is observed with multiple TLS-like structures found within tumor cells and tumor margins.\n\n42-parameter panel used: combines the Human Immuno-Oncology IMC Panel, 31 Antibodies (PN 201509) and individual antibodies.\n\nTime to acquire: 2 hours 52 minutes",
+    "Rotation": 0,
+    "Layout": {
+        "Grid": [
+            [
+                "i0"
+            ]
+        ]
+    },
+    "Stories": [
+        {
+            "Name": "",
+            "Description": "",
+            "Waypoints": [
+                {
+                    "Name": "Immune Cells",
+                    "Description": "This view of immune markers shows CD20 (green), CD8a (red), CD4 (cyan), as well as CAIX (blue). This view highlights the presence of tertiary lymphoid structures (TLS), which appear primarily as a mixture of green and cyan, as well as other T cell enriched regions.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Immune",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 1.153278,
+                    "Pan": [
+                        0.32071810890735114,
+                        0.49921733679019026
+                    ]
+                },
+                {
+                    "Name": "M2 Macrophage Infiltration",
+                    "Description": "The data suggests a significant involvement of M2 macrophages in stage III ccRCC. Immuno-suppressive M2 macrophages surround TLS with a small degree of penetration. The presence of CD4+ PD-1+ T cells in TLS near M2 macrophages suggests M2 macrophages contribute to an exhausted CD4+ T cell phenotype.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "M2 Infiltration",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 1.3306604439403484,
+                    "Pan": [
+                        0.5784631876526862,
+                        0.5224374491715432
+                    ]
+                }
+            ]
+        }
+    ],
+    "Channels": [
+        {
+            "Rendered": false,
+            "Name": "Collagen 1",
+            "Path": "Collagen-1_2__Collagen-1"
+        },
+        {
+            "Rendered": false,
+            "Name": "CAIX",
+            "Path": "CAIX_14__CAIX"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD3",
+            "Path": "CD3_40__CD3"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD20",
+            "Path": "CD20_6__CD20"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD16",
+            "Path": "CD16_17__CD16"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD4",
+            "Path": "CD4_27__CD4"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD8a",
+            "Path": "CD8a_32__CD8a"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD163",
+            "Path": "CD163_18__CD163"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD68",
+            "Path": "CD68_29__CD68"
+        },
+        {
+            "Rendered": false,
+            "Name": "PD-1",
+            "Path": "PD-1_35__PD-1"
+        }
+    ],
+    "Masks": [],
+    "Groups": [
+        {
+            "Name": "Overview",
+            "Colors": [
+                "00ff00",
+                "0000ff",
+                "ff0000",
+                "ffff00",
+                "00ffff"
+            ],
+            "Channels": [
+                "Collagen 1",
+                "CAIX",
+                "CD3",
+                "CD20",
+                "CD16"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Immune",
+            "Colors": [
+                "00ff00",
+                "00ffff",
+                "ff0000",
+                "0000ff"
+            ],
+            "Channels": [
+                "CD20",
+                "CD4",
+                "CD8a",
+                "CAIX"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "M2 Infiltration",
+            "Colors": [
+                "ff0000",
+                "00ff00",
+                "0000ff",
+                "ff00ff",
+                "ffff00"
+            ],
+            "Channels": [
+                "CD163",
+                "CD20",
+                "CD3",
+                "CD68",
+                "PD-1"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "PixelsPerMicron": 0.2,
+    "FirstGroup": "Overview",
+    "FirstViewport": {
+        "Zoom": 0.5099449157714845,
+        "Pan": [
+            0.45961538461538465,
+            0.49999999999999994
+        ]
+    }
+}

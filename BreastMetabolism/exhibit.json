@@ -1,1 +1,305 @@
-{"Images": [{"Name": "i0", "Description": "Exploring Metabolic Reprogramming in Breast Adenocarcinoma", "Path": "images/Breast-metabolism", "Width": 3000, "Height": 3000, "MaxLevel": 0}], "Header": "Breast adenocarcinoma, most commonly presenting as invasive ductal carcinoma, arises from glandular epithelial cells and is marked by abnormal structures, cellular atypia, and metabolic reprogramming. Cancer cells enhance glycolysis, glutamine uptake, and lipid metabolism to support growth and resist therapy, making metabolic pathways promising targets for treatment.", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "", "Waypoints": [{"Name": "Tissue architecture", "Description": "Imaging Mass Cytometry using Pan-Cytokeratin, CD45, and \u03b1SMA markers reveals the complex architecture of breast adenocarcinoma, distinguishing malignant epithelial cells, immune infiltrates, and stromal fibroblasts. This spatial profiling highlights tumor heterogeneity, immune response, and stromal remodeling, offering insights into tumor progression and the tumor microenvironment.", "Arrows": [], "Overlays": [], "Group": "Tissue architecture", "Masks": [], "ActiveMasks": [], "Zoom": 0.48225308641975323, "Pan": [0.49999999999999983, 0.37766314438012005]}, {"Name": "Glucose metabolism", "Description": "Breast adenocarcinoma displays metabolic reprogramming marked by elevated expression of GLUT-1 and LDHA, reflecting a reliance on aerobic glycolysis (the Warburg effect). GLUT-1 enhances glucose uptake, especially in hypoxic regions, while LDHA promotes lactate production to sustain glycolytic flux\u2014both supporting tumor growth and correlating with aggressive clinical features. Their upregulation highlights potential therapeutic targets within cancer metabolism.", "Arrows": [], "Overlays": [], "Group": "Glucose metabolism", "Masks": [], "ActiveMasks": [], "Zoom": 0.42703125000000003, "Pan": [0.49999999999999983, 0.5031868638289079]}, {"Name": "mTOR signaling", "Description": "Elevated phosphorylation of mTORC1 downstream targets pS6 and p4EBP1 indicates increased protein synthesis and tumor cell proliferation, reflecting hyperactive mTOR signaling often driven by PI3K/Akt pathway alterations. This signaling activity is associated with tumor progression and therapy resistance, and can be suppressed by mTORC1 inhibitors like rapalogs to reduce tumor growth.", "Arrows": [], "Overlays": [], "Group": "mTOR signaling", "Masks": [], "ActiveMasks": [], "Zoom": 0.48225308641975323, "Pan": [0.49999999999999983, 0.37766314438012005]}, {"Name": "Aerobic metabolism", "Description": "Markers such as ATP5A and citrate synthase reveal active mitochondrial oxidative phosphorylation (OXPHOS), indicating that many tumor cells retain aerobic respiration despite their reliance on glycolysis. This metabolic flexibility supports tumor growth and survival under varying conditions, including hypoxia and dormancy, highlighting the role of OXPHOS in cancer adaptation and progression.", "Arrows": [], "Overlays": [], "Group": "Aerobic metabolism", "Masks": [], "ActiveMasks": [], "Zoom": 0.4615022031077344, "Pan": [0.5000000000000001, 0.44403066921977125]}, {"Name": "Immune and stromal cell activity", "Description": "Immune and stromal markers\u2014CD8, CD4, CD14, and FAP\u2014highlight a complex tumor microenvironment shaped by cytotoxic and helper T cells, monocyte-derived macrophages, and cancer-associated fibroblasts. This interplay of immune activation, regulation, and stromal remodeling influences tumor progression, immune evasion, and therapeutic response.", "Arrows": [], "Overlays": [], "Group": "Tissue architecture", "Masks": [], "ActiveMasks": [], "Zoom": 0.42703125000000003, "Pan": [0.4999999999999999, 0.5171362276478382]}]}], "Channels": [{"Rendered": false, "Name": "panCK", "Path": "panCK_5__panCK"}, {"Rendered": false, "Name": "DNA", "Path": "DNA_41__DNA"}, {"Rendered": false, "Name": "CD45", "Path": "CD45_16__CD45"}, {"Rendered": false, "Name": "aSMA", "Path": "aSMA_47__aSMA"}, {"Rendered": false, "Name": "Glut-1", "Path": "Glut-1_6__Glut-1"}, {"Rendered": false, "Name": "LDHA", "Path": "LDHA_12__LDHA"}, {"Rendered": false, "Name": "CD31", "Path": "CD31_15__CD31"}, {"Rendered": false, "Name": "Collagen 1", "Path": "Collagen-1_1__Collagen-1"}, {"Rendered": false, "Name": "pS6", "Path": "pS6_31__pS6"}, {"Rendered": false, "Name": "p4EBP1", "Path": "p4EBP1_30__p4EBP1"}, {"Rendered": false, "Name": "Fibronectin", "Path": "Fibronectin_34__Fibronectin"}, {"Rendered": false, "Name": "Citrate Synthase", "Path": "Citrate-Synthase_7__Citrate-Synthase"}, {"Rendered": false, "Name": "ATP5A", "Path": "ATP5A_9__ATP5A"}, {"Rendered": false, "Name": "E-Cadherin", "Path": "E-Cadherin_21__E-Cadherin"}, {"Rendered": false, "Name": "CD8", "Path": "CD8_25__CD8"}, {"Rendered": false, "Name": "CD4", "Path": "CD4_20__CD4"}, {"Rendered": false, "Name": "CD14", "Path": "CD14_38__CD14"}, {"Rendered": false, "Name": "FAP", "Path": "FAP_24__FAP"}], "Masks": [], "Groups": [{"Name": "Tissue architecture", "Colors": ["ffff00", "0000ff", "ff00ff", "00ffff"], "Channels": ["panCK", "DNA", "CD45", "aSMA"], "Descriptions": ["", "", "", ""]}, {"Name": "Glucose metabolism", "Colors": ["ff0000", "00ff00", "00ffff", "0000ff"], "Channels": ["Glut-1", "LDHA", "CD31", "Collagen 1"], "Descriptions": ["", "", "", ""]}, {"Name": "mTOR signaling", "Colors": ["ff0000", "00ff00", "0000ff"], "Channels": ["pS6", "p4EBP1", "Fibronectin"], "Descriptions": ["", "", ""]}, {"Name": "Aerobic metabolism", "Colors": ["ff0000", "00ff00", "0000ff"], "Channels": ["Citrate Synthase", "ATP5A", "E-Cadherin"], "Descriptions": ["", "", ""]}, {"Name": "Immune and stromal cell activity", "Colors": ["ff0000", "00ff00", "ff00ff", "0000ff", "00ffff"], "Channels": ["CD8", "CD4", "CD14", "DNA", "FAP"], "Descriptions": ["", "", "", "", ""]}], "PixelsPerMicron": 1, "FirstGroup": "Tissue architecture", "FirstViewport": {"Zoom": 0.4744791666666667, "Pan": [0.4999999999999999, 0.5023362929746196]}}
+{
+    "Images": [
+        {
+            "Name": "i0",
+            "Description": "Exploring Metabolic Reprogramming in Breast Adenocarcinoma",
+            "Path": "images/Breast-metabolism",
+            "Width": 3000,
+            "Height": 3000,
+            "MaxLevel": 0
+        }
+    ],
+    "Header": "The tumor microenvironment is a metabolically and functionally diverse ecosystem in which dysregulated pathways influence tumor development and treatment response. Monitoring cell metabolism and revealing the spatial positioning of tumor and immune cells can shed light on distinct alterations that can be targeted for stratification and treatments.\n\nImaging Mass Cytometry™ (IMC™) technology, a spatial biology imaging technique that permits simultaneous analysis of 40-plus distinct tissue and cellular markers, was applied to breast adenocarcinoma to map key pathways in metabolic reprogramming and signaling. Cancer cells enhance glycolysis, glutamine uptake and lipid metabolism to support growth and resist therapy, making metabolic pathways promising targets for treatment. \n\n41-marker panel used: combines the Human Immuno-Oncology IMC Panel, 31 Antibodies (PN 201509) with the Human Cell Metabolism IMC Panel, 7 Antibodies (PN 201521) and the Maxpar™ IMC Cell Segmentation Kit (PN 201500).",
+    "Rotation": 0,
+    "Layout": {
+        "Grid": [
+            [
+                "i0"
+            ]
+        ]
+    },
+    "Stories": [
+        {
+            "Name": "",
+            "Description": "",
+            "Waypoints": [
+                {
+                    "Name": "Tissue architecture",
+                    "Description": "Imaging Mass Cytometry using Pan-Cytokeratin, CD45, and \u03b1SMA markers reveals the complex architecture of breast adenocarcinoma, distinguishing malignant epithelial cells, immune infiltrates, and stromal fibroblasts. This spatial profiling highlights tumor heterogeneity, immune response, and stromal remodeling, offering insights into tumor progression and the tumor microenvironment.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Tissue architecture",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.48225308641975323,
+                    "Pan": [
+                        0.49999999999999983,
+                        0.37766314438012005
+                    ]
+                },
+                {
+                    "Name": "Glucose metabolism",
+                    "Description": "Breast adenocarcinoma displays metabolic reprogramming marked by elevated expression of GLUT-1 and LDHA, reflecting a reliance on aerobic glycolysis (the Warburg effect). GLUT-1 enhances glucose uptake, especially in hypoxic regions, while LDHA promotes lactate production to sustain glycolytic flux\u2014both supporting tumor growth and correlating with aggressive clinical features. Their upregulation highlights potential therapeutic targets within cancer metabolism.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Glucose metabolism",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.42703125000000003,
+                    "Pan": [
+                        0.49999999999999983,
+                        0.5031868638289079
+                    ]
+                },
+                {
+                    "Name": "mTOR signaling",
+                    "Description": "Elevated phosphorylation of mTORC1 downstream targets pS6 and p4EBP1 indicates increased protein synthesis and tumor cell proliferation, reflecting hyperactive mTOR signaling often driven by PI3K/Akt pathway alterations. This signaling activity is associated with tumor progression and therapy resistance, and can be suppressed by mTORC1 inhibitors like rapalogs to reduce tumor growth.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "mTOR signaling",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.48225308641975323,
+                    "Pan": [
+                        0.49999999999999983,
+                        0.37766314438012005
+                    ]
+                },
+                {
+                    "Name": "Aerobic metabolism",
+                    "Description": "Markers such as ATP5A and citrate synthase reveal active mitochondrial oxidative phosphorylation (OXPHOS), indicating that many tumor cells retain aerobic respiration despite their reliance on glycolysis. This metabolic flexibility supports tumor growth and survival under varying conditions, including hypoxia and dormancy, highlighting the role of OXPHOS in cancer adaptation and progression.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Aerobic metabolism",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.4615022031077344,
+                    "Pan": [
+                        0.5000000000000001,
+                        0.44403066921977125
+                    ]
+                },
+                {
+                    "Name": "Immune and stromal cell activity",
+                    "Description": "Immune and stromal markers\u2014CD8, CD4, CD14, and FAP\u2014highlight a complex tumor microenvironment shaped by cytotoxic and helper T cells, monocyte-derived macrophages, and cancer-associated fibroblasts. This interplay of immune activation, regulation, and stromal remodeling influences tumor progression, immune evasion, and therapeutic response.",
+                    "Arrows": [],
+                    "Overlays": [],
+                    "Group": "Tissue architecture",
+                    "Masks": [],
+                    "ActiveMasks": [],
+                    "Zoom": 0.42703125000000003,
+                    "Pan": [
+                        0.4999999999999999,
+                        0.5171362276478382
+                    ]
+                }
+            ]
+        }
+    ],
+    "Channels": [
+        {
+            "Rendered": false,
+            "Name": "panCK",
+            "Path": "panCK_5__panCK"
+        },
+        {
+            "Rendered": false,
+            "Name": "DNA",
+            "Path": "DNA_41__DNA"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD45",
+            "Path": "CD45_16__CD45"
+        },
+        {
+            "Rendered": false,
+            "Name": "aSMA",
+            "Path": "aSMA_47__aSMA"
+        },
+        {
+            "Rendered": false,
+            "Name": "Glut-1",
+            "Path": "Glut-1_6__Glut-1"
+        },
+        {
+            "Rendered": false,
+            "Name": "LDHA",
+            "Path": "LDHA_12__LDHA"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD31",
+            "Path": "CD31_15__CD31"
+        },
+        {
+            "Rendered": false,
+            "Name": "Collagen 1",
+            "Path": "Collagen-1_1__Collagen-1"
+        },
+        {
+            "Rendered": false,
+            "Name": "pS6",
+            "Path": "pS6_31__pS6"
+        },
+        {
+            "Rendered": false,
+            "Name": "p4EBP1",
+            "Path": "p4EBP1_30__p4EBP1"
+        },
+        {
+            "Rendered": false,
+            "Name": "Fibronectin",
+            "Path": "Fibronectin_34__Fibronectin"
+        },
+        {
+            "Rendered": false,
+            "Name": "Citrate Synthase",
+            "Path": "Citrate-Synthase_7__Citrate-Synthase"
+        },
+        {
+            "Rendered": false,
+            "Name": "ATP5A",
+            "Path": "ATP5A_9__ATP5A"
+        },
+        {
+            "Rendered": false,
+            "Name": "E-Cadherin",
+            "Path": "E-Cadherin_21__E-Cadherin"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD8",
+            "Path": "CD8_25__CD8"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD4",
+            "Path": "CD4_20__CD4"
+        },
+        {
+            "Rendered": false,
+            "Name": "CD14",
+            "Path": "CD14_38__CD14"
+        },
+        {
+            "Rendered": false,
+            "Name": "FAP",
+            "Path": "FAP_24__FAP"
+        }
+    ],
+    "Masks": [],
+    "Groups": [
+        {
+            "Name": "Tissue architecture",
+            "Colors": [
+                "ffff00",
+                "0000ff",
+                "ff00ff",
+                "00ffff"
+            ],
+            "Channels": [
+                "panCK",
+                "DNA",
+                "CD45",
+                "aSMA"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Glucose metabolism",
+            "Colors": [
+                "ff0000",
+                "00ff00",
+                "00ffff",
+                "0000ff"
+            ],
+            "Channels": [
+                "Glut-1",
+                "LDHA",
+                "CD31",
+                "Collagen 1"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "mTOR signaling",
+            "Colors": [
+                "ff0000",
+                "00ff00",
+                "0000ff"
+            ],
+            "Channels": [
+                "pS6",
+                "p4EBP1",
+                "Fibronectin"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Aerobic metabolism",
+            "Colors": [
+                "ff0000",
+                "00ff00",
+                "0000ff"
+            ],
+            "Channels": [
+                "Citrate Synthase",
+                "ATP5A",
+                "E-Cadherin"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Name": "Immune and stromal cell activity",
+            "Colors": [
+                "ff0000",
+                "00ff00",
+                "ff00ff",
+                "0000ff",
+                "00ffff"
+            ],
+            "Channels": [
+                "CD8",
+                "CD4",
+                "CD14",
+                "DNA",
+                "FAP"
+            ],
+            "Descriptions": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "PixelsPerMicron": 1,
+    "FirstGroup": "Tissue architecture",
+    "FirstViewport": {
+        "Zoom": 0.4744791666666667,
+        "Pan": [
+            0.4999999999999999,
+            0.5023362929746196
+        ]
+    }
+}
