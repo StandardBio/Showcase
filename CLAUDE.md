@@ -43,6 +43,18 @@ git checkout draft
 
 Start a session with `git pull` then `git checkout draft`.
 
+**`CLAUDE.md` is `draft`-only — never publish it to `main`.** It's internal
+working context, kept off the public repo. Keep `CLAUDE.md` edits in their own
+commits (don't bundle with README/content) so they're never swept into a
+cherry-pick. To publish the README by itself:
+
+```bash
+git checkout main && git pull
+git checkout draft -- README.md
+git commit -m "docs: publish README" && git push origin main
+git checkout draft
+```
+
 ## Commit conventions
 
 - One logical change per commit; short imperative subject (≤72 chars).

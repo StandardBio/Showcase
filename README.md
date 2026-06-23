@@ -52,6 +52,10 @@ git checkout draft                      # back to work
 
 New laptop / new session: `git pull` then `git checkout draft`.
 
+> **`CLAUDE.md` is never published.** It lives only on `draft` as internal
+> working context, kept off the public repo. Cherry-picks to `main` carry the
+> README and site content — never `CLAUDE.md`.
+
 > **Pages source:** deploy-from-branch (`main` / root). **Do not** switch it to
 > "GitHub Actions" — there is no build, and the static files are served as-is.
 
